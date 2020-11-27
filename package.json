@@ -1,0 +1,16 @@
+{
+  "name": "externalapi",
+  "version": "1.0.0",
+  "description": "",
+  "main": "externalapi",
+  "scripts": {
+    "start": "node externalApi.js"
+  },
+  "private": true,
+  "dependencies": {
+    "express": "^4.16.4"
+  },
+  "devDependencies": {},
+  "author": "tara",
+  "license": "ISC"
+}
