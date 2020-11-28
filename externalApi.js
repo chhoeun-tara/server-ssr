@@ -19,7 +19,7 @@ app.get('/api/slow', (req, res) => {
         res.send({
             response: 'slow'
         });
-    }, 5000);
+    }, 1000);
 });
 
 app.listen(8081, () => {
